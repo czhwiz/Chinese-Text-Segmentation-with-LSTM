@@ -1,0 +1,6 @@
+tensorflow_addons
+tensorflow
+numpy
+pandas
+
+#install in pip ok thx
